@@ -8,7 +8,7 @@
 
 ### Staying in Touch
 
-To stay up to date on my latest open-source code (key repos I've created are pinned below), free video courses, podcasts, public lectures, books, and upcoming live trainings, my top recommendation is to **sign up for my email newsletter** on [my homepage here](https://www.jonkrohn.com/). 
+**Email newsletter**: To stay up to date on my latest open-source code (key repos I've created are pinned below), free video courses, podcasts, public lectures, books, and upcoming live trainings, my top recommendation is to **sign up for my email newsletter** on [my homepage here](https://www.jonkrohn.com/). 
 
 You're also most welcome to engage with me on:
 
