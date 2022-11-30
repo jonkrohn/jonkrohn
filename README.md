@@ -15,5 +15,6 @@ You're also most welcome to engage with me on:
 *  [LinkedIn](https://www.linkedin.com/in/jonkrohn/)
 *  [YouTube](https://www.youtube.com/c/jonkrohnlearns)
 *  [Twitter](https://twitter.com/JonKrohnLearns)
+*  [TikTok](https://www.tiktok.com/@jon.krohn)
 
 Keep on rockin’ it out there and hope to catch ya soon! 🎸
