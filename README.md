@@ -2,7 +2,7 @@
 
 * 📚 **Books** — My first, [Deep Learning Illustrated](https://www.deeplearningillustrated.com/), was an instant #1 bestseller that was translated into seven languages. It is used for introductory courses on deep learning at universities around the globe. 
 * 🎙 **Podcasts** — I host [SuperDataScience](https://www.superdatascience.com/podcast), a technical (but nevertheless lighthearted) program on machine learning applications. With over two million downloads per year, it is the most popular show in the data science industry.
-* 🎥 **Videos** — I present tutorials with accompanying open-source code, e.g., as part of my [machine learning courses](https://www.jonkrohn.com/courses). My [Udemy course](https://jonkrohn.com/udemy) has over 90,000 students and my [YouTube channel](https://www.youtube.com/c/JonKrohnLearns) was recognized with the 2021 Data Community Content Creator Award for the AI/ML category. 
+* 🎥 **Videos** — I present tutorials with accompanying open-source code, e.g., as part of my [machine learning courses](https://www.jonkrohn.com/courses). My [Udemy course](https://jonkrohn.com/udemy) has over 100,000 students and my [YouTube channel](https://www.youtube.com/c/JonKrohnLearns) was recognized with the 2021 Data Community Content Creator Award for the AI/ML category. 
 * 🕺 **Lectures** — As cataloged on the [talks page of my website](https://www.jonkrohn.com/talks), I regularly teach classes online via O’Reilly as well as providing lectures in-person at world-leading universities, conferences, and companies.
 
 
